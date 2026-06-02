@@ -354,11 +354,8 @@ Value range: 0 to 255
 
 ## Performance Snapshot
 
-| Method | Public PSNR |
-|---|---:|
-| Stage 1: validation-selected PromptIR checkpoint | 29.89 dB |
-| Stage 2: raw weights after full-data fine-tuning | 29.92 dB |
-| Stage 2: EMA weights after full-data fine-tuning | **29.92 dB** |
+<img width="1446" height="277" alt="image" src="https://github.com/user-attachments/assets/012b626f-e808-453f-9bef-2df26cdb2bf2" />
+
 
 The final public leaderboard score is:
 
